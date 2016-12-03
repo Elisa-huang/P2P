@@ -1,0 +1,64 @@
+@charset "utf-8";
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.carousel img {
+  width: 100%;
+}
+#p2p-feature {
+  margin-top: 20px;
+}
+#p2p-feature .feature1 {
+  background: url("../images/feature01.png") no-repeat;
+  height: 70px;
+  overflow: hidden;
+}
+#p2p-feature .feature2 {
+  background: url("../images/feature02.png") no-repeat;
+  overflow: hidden;
+  height: 70px;
+}
+#p2p-feature .feature3 {
+  background: url("../images/feature03.png") no-repeat;
+  overflow: hidden;
+  height: 70px;
+}
+#p2p-feature dd {
+  padding-top: 10px;
+  color: #8C8C8C;
+  padding-left: 60px;
+}
+#p2p-feature dt {
+  padding-left: 60px;
+}
+#footer {
+  background: #F8F8F8;
+}
+#footer .row {
+  padding-top: 20px;
+}
+#footer img {
+  width: 100%;
+}
+/*改变panel面板的固定格式*/
+.panel {
+  box-shadow: none;
+  border-radius: 0;
+  border: 0;
+  margin-top: 30px;
+}
+.panel .panel-heading {
+  color: #2E8ECE;
+  font-weight: bold;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 0;
+  margin: 10px 0 16px;
+}
+.panel .panel-heading .pull-right {
+  line-height: 40px;
+}
+.panel .title {
+  font-size: 24px;
+  border-bottom: solid 3px #2E8ECE;
+}

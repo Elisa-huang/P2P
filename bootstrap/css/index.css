@@ -1,0 +1,14 @@
+@charset "utf-8";
+.navbar{
+	border-radius: 0;
+	margin-bottom: 0;
+}
+#navtop a{
+	color: #FFFFFF;
+}
+#navtop a:hover{
+	color: #0000FF;
+}
+#innerMenu a:hover{
+	color: #0000FF;
+}

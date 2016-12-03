@@ -1,0 +1,16 @@
+@charset "utf-8";
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+#login-head .title {
+  font-size: 20px;
+  line-height: 50px;
+  color: #337AB9;
+  font-weight: bold;
+}
+#login-head .navbar-header {
+  padding-top: 25px;
+  padding-bottom: 10px;
+  margin-right: 20px;
+}
